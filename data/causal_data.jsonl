@@ -1,0 +1,27 @@
+[
+  {
+    "claim": "Regular exercise causes weight loss.",
+    "document": "A meta-analysis of 25 randomized controlled trials published in the Journal of Obesity found a strong, consistent link between sustained physical activity and reduction in body mass index (BMI). The studies controlled for dietary intake and other lifestyle factors, showing that the exercise group consistently lost more weight than the sedentary control group over a six-month period. The physiological mechanism involves increased caloric expenditure and metabolic rate.",
+    "is_causal": true
+  },
+  {
+    "claim": "Ice cream sales cause an increase in crime rates.",
+    "document": "City data from the past decade shows a clear correlation between the months with high ice cream sales and months with high crime rates. Both metrics peak during the summer months of June, July, and August. However, criminologists point to a confounding variable: temperature. Hot weather leads to more people being outdoors, increasing both social interactions and opportunities for conflict, while simultaneously driving up demand for ice cream. There is no evidence to suggest a direct causal link between the two.",
+    "is_causal": false
+  },
+  {
+    "claim": "Taking Vitamin C supplements prevents the common cold.",
+    "document": "A comprehensive review by Cochrane, involving over 11,000 participants across numerous studies, concluded that routine Vitamin C supplementation does not reduce the incidence of the common cold in the general population. While some evidence suggests it might slightly shorten the duration of a cold, it does not act as a preventative measure against infection. The belief in its preventative power is largely anecdotal.",
+    "is_causal": false
+  },
+  {
+    "claim": "Sleep deprivation causes impaired cognitive function.",
+    "document": "In a controlled laboratory experiment, participants were divided into two groups: one allowed to sleep 8 hours per night, and another restricted to 4 hours. After three days, the sleep-deprived group showed significant deficits in tasks measuring attention, memory, and decision-making compared to the well-rested group. EEG scans also revealed reduced activity in the prefrontal cortex for the sleep-deprived participants, providing a neurological basis for the observed impairments.",
+    "is_causal": true
+  },
+  {
+    "claim": "Listening to classical music makes infants more intelligent.",
+    "document": "The 'Mozart effect' theory gained popularity in the 1990s. However, subsequent, more rigorous scientific studies have failed to replicate the original findings. A large-scale study published in 'Nature' found no significant difference in IQ scores between infants exposed to classical music and those in a control group. Researchers now believe that enriched environments and active engagement with caregivers are the key drivers of cognitive development, not passive listening to a specific genre of music.",
+    "is_causal": false
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "claim": "Vaccination causes autism.",
+    "document": "The initial 1998 study that suggested a link between the MMR vaccine and autism was retracted by The Lancet after it was found to be fraudulent, with manipulated data. Since then, numerous large-scale epidemiological studies conducted across the globe, including a 2013 CDC study involving hundreds of thousands of children, have found no evidence of a causal relationship between any vaccines and the likelihood of developing autism.",
+    "is_causal": false
+  },
+  {
+    "claim": "Deforestation in the Amazon causes a decrease in regional rainfall.",
+    "document": "Scientific models and satellite data confirm that the Amazon rainforest generates a significant portion of its own rainfall through a process called evapotranspiration. Large-scale deforestation disrupts this water cycle. A study in 'Geophysical Research Letters' showed that areas with significant forest clearing experienced a measurable decline in precipitation and a longer dry season, directly linking the loss of trees to changes in weather patterns.",
+    "is_causal": true
+  }
+]
